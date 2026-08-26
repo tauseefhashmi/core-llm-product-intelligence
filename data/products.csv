@@ -1,0 +1,6 @@
+product_id,name,category,price,currency,rating,availability,description
+P001,ZenBook 14,Laptop,899,EUR,4.6,in_stock,14-inch laptop with 16GB RAM and a long-life battery for office and travel use
+P002,ThinkPad E14,Laptop,949,EUR,4.5,in_stock,14-inch business laptop with strong keyboard and upgradeable memory
+P003,Swift Go 14,Laptop,799,EUR,4.4,in_stock,Lightweight 14-inch laptop focused on portability and battery efficiency
+P004,Studio Pro 16,Laptop,1399,EUR,4.7,backorder,16-inch creator laptop with discrete GPU and high-resolution display
+P005,PowerBook X,Laptop,1099,EUR,4.2,in_stock,Performance-focused 15-inch laptop with 32GB RAM and fast SSD
