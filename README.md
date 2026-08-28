@@ -41,7 +41,7 @@ A portfolio-grade LLM engineering project inspired by the **AI Engineer Core Tra
         Optional training path:
         product text -> SFT dataset -> QLoRA -> Hugging Face adapter
 ```
-
+## Important Advise: Please put in your API KEY(OPENAI_API_KEY=) in the ".env.example" file 
 ## Quick start
 
 ### 1. Local Python
